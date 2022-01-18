@@ -50,3 +50,9 @@
     font-weight: bold;
     border-radius: 25px;
 }
+
+.instructions {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
